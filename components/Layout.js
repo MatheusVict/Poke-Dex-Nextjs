@@ -11,7 +11,7 @@ const Layout = ({ children }) => {
             <title>Poke-dex</title>
         </Head>
         <Navbar/>
-        <main>{children}</main>
+        <main className='mainContainer'>{children}</main>
         <Footer />
     </>
   )
