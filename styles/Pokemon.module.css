@@ -125,3 +125,7 @@
 .dataHeight {
     border-right: 1px solid #CCC;
 }
+
+.load {
+    text-align: center;
+}
